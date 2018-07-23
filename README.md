@@ -1,2 +1,2 @@
 # canvas-tutorial
-canvas tutorial exercises
+Exercise for the canvas tutorial
